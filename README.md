@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/BSM-114514/FuckXianBei/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="FuckXianBei"></a>
+  <a href="https://bsm-114514.github.io/F____kXianBei/"><img src="https://github.com/BSM-114514/FuckXianBei/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="FuckXianBei"></a>
 </p>
 <div align="center">
 
