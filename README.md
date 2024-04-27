@@ -1,3 +1,8 @@
+<div align="center">
+
+# 注意：由于Github在国内的环境下有时会抽风（有时能访问但加载速度很慢，但有时不能访问），因此建议开Github加速服务或挂梯来解决这个问题（有时满速的魔法节点访问GitHub速度都比国内访问还快）
+
+</div>
 <p align="center">
   <a href="https://bsm-114514.github.io/F____kXianBei/"><img src="https://github.com/BSM-114514/FuckXianBei/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="FuckXianBei"></a>
 </p>
