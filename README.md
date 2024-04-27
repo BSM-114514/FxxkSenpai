@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# FuckXianBei
+# F**kXianBei
 
 网页小游戏（迫真）
 
