@@ -8,7 +8,7 @@
 </p>
 <div align="center">
 
-# F**kXianBei
+# F**kSenpai
 
 网页小游戏（迫真）
 
