@@ -1,4 +1,3 @@
-<div align="center">
 ##### 
 
 > [!NOTE]
@@ -7,12 +6,11 @@
 >
 > **本人已在Cloudflare Pages上部署了本项目，并绑定了自定义域名，网络问题基本上得到了解决。如果还是加载不了那就是Cloudflare抽风了，然后使用Cloudflare CDN的网站都没法访问了，~~然后全世界就陷入了混乱（doge~~**
 
-</div>
-
 <p align="center">
   <a href="https://bsm-114514.github.io/F____kXianBei/"><img src="https://github.com/BSM-114514/FuckXianBei/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="FuckXianBei"></a>
 </p>
 <div align="center">
+
 # F**kSenpai
 
 网页小游戏（迫真）
